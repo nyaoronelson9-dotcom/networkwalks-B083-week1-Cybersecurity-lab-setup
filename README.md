@@ -312,7 +312,7 @@ This laboratory is intended strictly for education purposes only.
 **NYAORO NELSON**
 Cybersecurity Professional B082
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:share:7507806739875131393/
 
 ---
 
