@@ -1,5 +1,5 @@
 # networkwalks-B084-week1-Cybersecurity-lab-setup
-my first project: @NYAORO NELSON WAMBOGO.
+my first project: @NYAORO NELSON WAMBOGO.wk1
 
 /home/kali/Pictures/Screenshot_2026-09-21_08_07_56.png
 /home/kali/Pictures/Screenshot_2026-09-21_08_07_56.png
